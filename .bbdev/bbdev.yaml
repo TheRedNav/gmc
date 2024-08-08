@@ -1,0 +1,11 @@
+database: "none"
+archetypeVersion: "2.1.9"
+sigla: "gmc"
+package: "br.com.bb.dsc"
+provimentoIIB: "none"
+consumoIIB: "br.com.bb.atc.operacao:Op2867915-v1:1.3.0:ListarCodigosPapeisPesquisadosPeloUsuario#br.com.bb.atc.operacao:Op2850033-v1:1.3.0:ConsultarDetalhesPapelPeloCodigo"
+groupId: "br.com.bb.dsc"
+artifactId: "dsc-dsc-api-informatica-edc-atc"
+version: "0.1.0-SNAPSHOT"
+treinamento: "false"
+createAt: 2023-07-13T15:24:56.711576

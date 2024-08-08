@@ -1,0 +1,14 @@
+{
+    "java.configuration.runtimes": [
+    {
+        "name": "JavaSE-11",
+        "path": "/usr/lib/jvm/java-11-openjdk-amd64",
+        "default": true
+    }
+    ],
+    "java.imports.gradle.wrapper.enabled": true,
+    "java.imports.maven.wrapper.enabled": true,
+    "java.imports.gradle.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+    "java.imports.maven.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

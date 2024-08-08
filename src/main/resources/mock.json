@@ -1,0 +1,257 @@
+{
+    "metadata": {
+      "totalCount": 1658
+    },
+    "appliedFilters": [],
+    "facetResults": [],
+    "hits": [
+      {
+        "id": "REC_DB2-D3G4_DomInf_Derivados://D1D1D01/HIVD1D/LOG_PRC_ABDG",
+        "href": "/2/catalog/data/objects/REC_DB2-D3G4_DomInf_Derivados~3a~~2f~~2f~D1D1D01~2f~DB2D1D~2f~LOG_PRC_ABDG",
+        "nativeId": "64838BB5EFCA542EA5A6E4BC",
+        "values": [
+          {
+            "attributeId": "core.lastModified",
+            "label": "Last Modified",
+            "value": "2023-06-09T20:30:39.344Z",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceName",
+            "label": "Resource Name",
+            "value": "REC_DB2-D3G4_DomInf_Derivados",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/DB2D1D/LOG_PRC_ABDG",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/LOG_PRC_ABDG",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceType",
+            "label": "Resource Type",
+            "value": "IBM DB2 for z/OS",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "core.DataSet",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.classType",
+            "label": "classType",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.name",
+            "label": "name",
+            "value": "LOG_PRC_ABDG",
+            "highlights": []
+          }
+        ],
+        "subHits": []
+      },
+       {
+        "id": "REC_DB2-D3G4_DomInf_Derivados://D1D1D01/DB2D1D/ANDO_CLI_SGM",
+        "href": "/2/catalog/data/objects/REC_DB2-D3G4_DomInf_Derivados~3a~~2f~~2f~D1D1D01~2f~DB2D1D~2f~ANDO_CLI_SGM",
+        "nativeId": "64838BB5EFCA542EA5A6E4B6",
+        "values": [
+          {
+            "attributeId": "core.lastModified",
+            "label": "Last Modified",
+            "value": "2023-06-09T20:30:39.344Z",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceName",
+            "label": "Resource Name",
+            "value": "REC_DB2-D3G4_DomInf_Derivados",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/ANDO_CLI_SGM",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/DB2D1D/ANDO_CLI_SGM",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceType",
+            "label": "Resource Type",
+            "value": "IBM DB2 for z/OS",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "core.DataSet",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.classType",
+            "label": "classType",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.name",
+            "label": "name",
+            "value": "ANDO_CLI_SGM",
+            "highlights": []
+          }
+        ],
+        "subHits": []
+      },
+      {
+        "id": "REC_DB2-D3G4_DomInf_Derivados://D1D1D01/DB2D1D/CLI_CTRA",
+        "href": "/2/catalog/data/objects/REC_DB2-D3G4_DomInf_Derivados~3a~~2f~~2f~D1D1D01~2f~DB2D1D~2f~CLI_CTRA",
+        "nativeId": "64838BB5EFCA542EA5A6E4AF",
+        "values": [
+          {
+            "attributeId": "core.lastModified",
+            "label": "Last Modified",
+            "value": "2023-06-09T20:30:39.344Z",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceName",
+            "label": "Resource Name",
+            "value": "REC_DB2-D3G4_DomInf_Derivados",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/DB2D1D/CLI_CTRA",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/CLI_CTRA",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceType",
+            "label": "Resource Type",
+            "value": "IBM DB2 for z/OS",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "core.DataSet",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.classType",
+            "label": "classType",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.name",
+            "label": "name",
+            "value": "CLI_CTRA",
+            "highlights": []
+          }
+        ],
+        "subHits": []
+      },
+      {
+        "id": "REC_DB2-D3G4_DomInf_Derivados://D1D1D01/DB2D1D/ANDO_PDTV_EVS_CLI",
+        "href": "/2/catalog/data/objects/REC_DB2-D3G4_DomInf_Derivados~3a~~2f~~2f~D1D1D01~2f~DB2D1D~2f~ANDO_PDTV_EVS_CLI",
+        "nativeId": "64838BB5EFCA542EA5A6E4A6",
+        "values": [
+          {
+            "attributeId": "core.lastModified",
+            "label": "Last Modified",
+            "value": "2023-06-09T20:30:39.344Z",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceName",
+            "label": "Resource Name",
+            "value": "REC_DB2-D3G4_DomInf_Derivados",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/ANDO_PDTV_EVS_CLI",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.autoSuggestMatchId",
+            "label": "Ids for end point objects on auto connection assignment suggestions",
+            "value": "/DB2D1D/ANDO_PDTV_EVS_CLI",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.resourceType",
+            "label": "Resource Type",
+            "value": "IBM DB2 for z/OS",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.allclassTypes",
+            "label": "All Class Types",
+            "value": "core.DataSet",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.classType",
+            "label": "classType",
+            "value": "com.infa.ldm.relational.Table",
+            "highlights": []
+          },
+          {
+            "attributeId": "core.name",
+            "label": "name",
+            "value": "ANDO_PDTV_EVS_CLI",
+            "highlights": []
+          }
+        ],
+        "subHits": []
+      }
+    ]
+  }
